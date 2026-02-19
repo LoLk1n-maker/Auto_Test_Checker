@@ -19,5 +19,6 @@
 
 
 настройка порога чувствительности:
+
 <img width="682" height="282" alt="image" src="https://github.com/user-attachments/assets/713e0997-c138-4aae-986f-a7d410c3a038" />
 
