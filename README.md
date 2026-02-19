@@ -18,5 +18,6 @@
 <img width="675" height="591" alt="image" src="https://github.com/user-attachments/assets/1b13d45a-dedd-4bc6-9ecb-50aeadd10ab0" />
 
 
-настройка порога чувствительности для одной клетки::
-<img width="701" height="259" alt="image" src="https://github.com/user-attachments/assets/b98d8c6d-b2f4-4ea9-9bf4-1b5fc92dabac" />
+настройка порога чувствительности:
+<img width="682" height="282" alt="image" src="https://github.com/user-attachments/assets/713e0997-c138-4aae-986f-a7d410c3a038" />
+
