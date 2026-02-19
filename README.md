@@ -13,7 +13,7 @@
 
 
 
-Скриншоты:
+# Скриншоты:
 <img width="981" height="842" alt="image" src="https://github.com/user-attachments/assets/7afb85e9-8675-42cb-aef2-01a9ffbd5586" />
 
 настройка порога чувствительности для одной клетки::
