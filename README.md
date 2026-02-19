@@ -14,7 +14,9 @@
 
 
 # Скриншоты:
-<img width="981" height="842" alt="image" src="https://github.com/user-attachments/assets/7afb85e9-8675-42cb-aef2-01a9ffbd5586" />
+<img width="656" height="748" alt="image" src="https://github.com/user-attachments/assets/cc875389-e64b-46b0-aaa7-f5e35b977c7f" />
+<img width="675" height="591" alt="image" src="https://github.com/user-attachments/assets/1b13d45a-dedd-4bc6-9ecb-50aeadd10ab0" />
+
 
 настройка порога чувствительности для одной клетки::
 <img width="701" height="259" alt="image" src="https://github.com/user-attachments/assets/b98d8c6d-b2f4-4ea9-9bf4-1b5fc92dabac" />
